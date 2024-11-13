@@ -38,7 +38,7 @@ local AnimationIds = {
     Greet = "rbxassetid://0",
 }
 
-if game.PlaceId == 2788229376 or game.PlaceId == 2788229376 then -- // Da Hood
+if game.PlaceId == 2788229376 or game.PlaceId == 16033173781 then -- // Da Hood
     AnimationIds = {
         Lay = "rbxassetid://3152378852",
         Greet = "rbxassetid://3189777795",
